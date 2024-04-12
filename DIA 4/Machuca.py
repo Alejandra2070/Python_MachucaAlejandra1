@@ -27,3 +27,5 @@ print("")
 print("Esperamos te haya gustado nuestro programa, te esperamos pronto!!")
 print("Que tengas un bonito día")
 print("BAYYYYY :D")
+
+#Desarrollado por Alejandra Machuca T.I 1093593725
