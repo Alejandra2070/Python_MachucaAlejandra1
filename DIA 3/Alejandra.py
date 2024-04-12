@@ -98,6 +98,8 @@ def main():
             print("Si te gustaría crear otra contraseña ingresa 's' o 'n' para salir")
 if __name__ == "__main__":
     main()
+    
+#Desarrollado por Alejandra Machuca T.I 1093593725
 
 
 
