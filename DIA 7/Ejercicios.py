@@ -95,5 +95,8 @@ while booleano==True: #Se va a repetir hasta que sea verdadero
 
     if r == 4:
         print("")
+    
         print("Gracias por usar el programa, nos vemos luego :D")
         booleano=False
+ 
+#Desarrollado por Alejandra Machuca y Brayan Maldonado - Campers
