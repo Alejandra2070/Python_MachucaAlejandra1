@@ -26,4 +26,10 @@ Este repositorio está dividido en varias carpetas nombradas con los días de tr
 |DIA 6|Aleja.py|Este programa es igual que el anterior, pero se diferencian en que este primero muestra los datos que ingresó el usuario y luego los muestra ordenados de menor a mayor pero sin números repetidos.|
 ||Ejercicio2.py|El usuario ingresa una lista y luego elige un número el cual el programa debe buscar y sumar de la lista ingresada, por último imprimirá el índice de los números que sumo.|
 |DIA 7|Ejercicios.py|En este programa se creó un menú para facilitar la compra de los usuarios, en este podrá agregar los productos disponibles, ver qué productos eligió, cual es el precio final y por último cerrar el programa.|
-|DIA 11|Ejercicios.py||
+|DIA 11|Ejercicios.py|El usuario da una serie de números y luego elige cual buscar, si el número que quiere buscar está entre los que ingresó el programa le mostrará el índice de este, y si el número no está el programa le mostrará en que índice iría el número.|
+|DIA 12|Ejercicio.py|En este programa se creó un menú donde los usuarios pueden crear, actualizar, revisar y eliminar los eventos deseados.|
+||main2.py|Este programa es una prueba del anterior.|
+
+# Desarrollado por
+
+El proyecto fue realizado por Alejandra Machuca, estudiante de CampusLands.
